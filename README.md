@@ -1,4 +1,5 @@
-# jQuery QueryBuilder
+# jQuery QueryBuilder fork
+## Forked from the original repo, which is [/mistic100/jQuery-QueryBuilder](https://github.com/mistic100/jQuery-QueryBuilder)
 ## New things in my fork:
 * Bootstrap 4 Compatibility
 * Hungarian language support
@@ -17,6 +18,7 @@ Unrequired:
 * [Web Page for my Self-employment](https://www.tailor993.hu)
 * [Company which is made by me and my friends](https://fejlesztech.hu)
 
+# The original jQuery QueryBuilder readme.md file:
 # jQuery QueryBuilder
 
 [![npm version](https://img.shields.io/npm/v/jQuery-QueryBuilder.svg?style=flat-square)](https://www.npmjs.com/package/jQuery-QueryBuilder)
