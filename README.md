@@ -2,7 +2,7 @@
 ## Forked from the original repo, which is [/mistic100/jQuery-QueryBuilder](https://github.com/mistic100/jQuery-QueryBuilder)
 ## New things in my fork:
 * Bootstrap 4 Compatibility
-* Hungarian language support
+* Hungarian language support -- Already merged in [/mistic100/jQuery-QueryBuilder](https://github.com/mistic100/jQuery-QueryBuilder)
 
 Extra Requirements:
 * Bootstrap 4 
