@@ -1,4 +1,23 @@
 # jQuery QueryBuilder
+## New things in my fork:
+* Bootstrap 4 Compatibility
+* Hungarian language support
+
+Extra Requirements:
+* Bootstrap 4 
+* FontAwesome V5.12.1 - Free 
+
+Unrequired:
+* Bootstrap 3
+
+### My Profiles:
+* [LinkedIn](https://www.linkedin.com/in/tailor993/)
+* [GitHub](https://github.com/Tailor993)
+* [Facebook](https://www.facebook.com/tailor1993)
+* [Web Page for my Self-employment](https://www.tailor993.hu)
+* [Company which is made by me and my friends](https://fejlesztech.hu)
+
+# jQuery QueryBuilder
 
 [![npm version](https://img.shields.io/npm/v/jQuery-QueryBuilder.svg?style=flat-square)](https://www.npmjs.com/package/jQuery-QueryBuilder)
 [![jsDelivr CDN](https://data.jsdelivr.com/v1/package/npm/jQuery-QueryBuilder/badge)](https://www.jsdelivr.com/package/npm/jQuery-QueryBuilder)
