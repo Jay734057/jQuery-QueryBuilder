@@ -3,7 +3,7 @@
 ## New things in my fork:
 * Bootstrap 4 Compatibility
 * Hungarian language support -- Already merged in [/mistic100/jQuery-QueryBuilder](https://github.com/mistic100/jQuery-QueryBuilder)
-
+  
 Extra Requirements:
 * Bootstrap 4 
 * FontAwesome V5.12.1 - Free 
